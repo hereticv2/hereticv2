@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hereticv2
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Ansible, docker, Kubernetes, Terraform, vagrant/packer.
+- 🌱 I’m currently learning Ansible, docker, Kubernetes, Terraform and vagrant/packer.
 - 📫 How to reach me : https://www.linkedin.com/in/lejmibrahim/
 
 <!---
